@@ -1,0 +1,452 @@
+,,,,,,,
+case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+P001,nomorPerkara,165/Pid.Sus/2025/PN Dpk,putusan_001.pdf,1,Rifqia,Naswa,verified
+P001,pengadilan,PN Dpk,putusan_001.pdf,1,Rifqia,Naswa,verified
+P001,tanggalPutusan,2025-07-07,putusan_001.pdf,18,Rifqia,Naswa,verified
+P001,terdakwaKode,T001,putusan_001.pdf,1-2,Rifqia,Naswa,verified
+P001,jenisNarkotika,Sabu,putusan_001.pdf,"2-3, 17-18",Rifqia,Naswa,verified
+P001,beratBarangBuktiGram,0.1082,putusan_001.pdf,"4-5, 7, 11, 13",Rifqia,Naswa,verified
+P001,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Subsidiair: Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_001.pdf,4-7,Rifqia,Naswa,verified
+P001,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_001.pdf,16-18,Rifqia,Naswa,verified
+P001,vonisBulan,72,putusan_001.pdf,16-18,Rifqia,Naswa,verified
+P002,nomorPerkara,650/Pid.Sus/2012/PN.Dpk,putusan_002.pdf,1,Rifqia,Naswa,verified
+P002,pengadilan,PN Dpk,putusan_002.pdf,1,Rifqia,Naswa,verified
+P002,tanggalPutusan,2012-10-31,putusan_002.pdf,17,Rifqia,Naswa,verified
+P002,terdakwaKode,T002,putusan_002.pdf,1,Rifqia,Naswa,verified
+P002,jenisNarkotika,Ganja,putusan_002.pdf,"2, 16",Rifqia,Naswa,verified
+P002,beratBarangBuktiGram,3.2406,putusan_002.pdf,"3, 5, 9, 11",Rifqia,Naswa,verified
+P002,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Subsidiair: Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_002.pdf,3-6,Rifqia,Naswa,verified
+P002,pasalTerbukti,Pasal 111 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_002.pdf,15-17,Rifqia,Naswa,verified
+P002,vonisBulan,60,putusan_002.pdf,15-17,Rifqia,Naswa,verified
+P003,nomorPerkara,28/Pid.Sus/2026/PN Dpk,putusan_003.pdf,1,Rifqia,Naswa,verified
+P003,pengadilan,PN Dpk,putusan_003.pdf,1,Rifqia,Naswa,verified
+P003,tanggalPutusan,2026-04-08,putusan_003.pdf,28,Rifqia,Naswa,verified
+P003,terdakwaKode,T003,putusan_003.pdf,1-2,Rifqia,Naswa,verified
+P003,jenisNarkotika,Sabu,putusan_003.pdf,"2-3, 26-27",Rifqia,Naswa,verified
+P003,beratBarangBuktiGram,1.3378,putusan_003.pdf,"4, 6, 11, 14, 19",Rifqia,Naswa,verified
+P003,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Subsidiair: Pasal 112 ayat (1) UU No. 35 Tahun 2009 (disesuaikan menjadi Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026),putusan_003.pdf,4-8,Rifqia,Naswa,verified
+P003,pasalTerbukti,Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 tentang KUHP jo. UU No. 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_003.pdf,26-28,Rifqia,Naswa,verified
+P003,vonisBulan,60,putusan_003.pdf,26-28,Rifqia,Naswa,verified
+P004,nomorPerkara,325/Pid/Sus/2012/PN.Dpk,putusan_004.pdf,1,Rifqia,Naswa,verified
+P004,pengadilan,PN Dpk,putusan_004.pdf,1,Rifqia,Naswa,verified
+P004,tanggalPutusan,2012-06-21,putusan_004.pdf,26,Rifqia,Naswa,verified
+P004,terdakwaKode,T004,putusan_004.pdf,1-2,Rifqia,Naswa,verified
+P004,jenisNarkotika,Ganja,putusan_004.pdf,"2-3, 24-25",Rifqia,Naswa,verified
+P004,beratBarangBuktiGram,2.8993,putusan_004.pdf,"4, 6, 11, 13, 18",Rifqia,Naswa,verified
+P004,pasalDakwaan,Pasal 111 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_004.pdf,3-7,Rifqia,Naswa,verified
+P004,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika,putusan_004.pdf,24-26,Rifqia,Naswa,verified
+P004,vonisBulan,6,putusan_004.pdf,24-26,Rifqia,Naswa,verified
+P005,nomorPerkara,210/Pid.Sus/2014/PN.Dpk,putusan_005.pdf,1,Rifqia,Naswa,verified
+P005,pengadilan,PN Dpk,putusan_005.pdf,1,Rifqia,Naswa,verified
+P005,tanggalPutusan,2014-05-20,putusan_005.pdf,17,Rifqia,Naswa,verified
+P005,terdakwaKode,T005,putusan_005.pdf,1,Rifqia,Naswa,verified
+P005,jenisNarkotika,Ganja,putusan_005.pdf,"2, 16",Rifqia,Naswa,verified
+P005,beratBarangBuktiGram,3.2974,putusan_005.pdf,"3, 5, 8, 10, 12",Rifqia,Naswa,verified
+P005,pasalDakwaan,Pertama: Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 111 ayat (1) UU No. 35 Tahun 2009	 Atau Ketiga: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_005.pdf,3-6,Rifqia,Naswa,verified
+P005,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika,putusan_005.pdf,15-17,Rifqia,Naswa,verified
+P005,vonisBulan,12,putusan_005.pdf,15-17,Rifqia,Naswa,verified
+P006,nomorPerkara,250/Pid/Sus/2012/PN.DPK,putusan_006.pdf,1,Rifqia,Naswa,verified
+P006,pengadilan,PN Dpk,putusan_006.pdf,1,Rifqia,Naswa,verified
+P006,tanggalPutusan,2012-05-24,putusan_006.pdf,15,Rifqia,Naswa,verified
+P006,terdakwaKode,T006,putusan_006.pdf,1,Rifqia,Naswa,verified
+P006,jenisNarkotika,Ganja,putusan_006.pdf,"2, 14",Rifqia,Naswa,verified
+P006,beratBarangBuktiGram,3.4683,putusan_006.pdf,"3, 4, 7, 9, 11",Rifqia,Naswa,verified
+P006,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Subsidiair: Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_006.pdf,3-5,Rifqia,Naswa,verified
+P006,pasalTerbukti,Pasal 111 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_006.pdf,14-15,Rifqia,Naswa,verified
+P006,vonisBulan,48,putusan_006.pdf,14-15,Rifqia,Naswa,verified
+P007,nomorPerkara,125/Pid.Sus/2026/PN Dpk,putusan_007.pdf,1,Rifqia,Naswa,verified
+P007,pengadilan,PN Dpk,putusan_007.pdf,1,Rifqia,Naswa,verified
+P007,tanggalPutusan,2026-06-17,putusan_007.pdf,29,Rifqia,Naswa,verified
+P007,terdakwaKode,T007,putusan_007.pdf,1,Rifqia,Naswa,verified
+P007,jenisNarkotika,Sabu,putusan_007.pdf,"3, 14-15, 28, 29",Rifqia,Naswa,verified
+P007,beratBarangBuktiGram,0.9267,putusan_007.pdf,"3, 5, 7, 8, 10, 14, 16, 19-20, 22, 28, 29",Rifqia,Naswa,verified
+P007,pasalDakwaan,Pertama: Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 tentang KUHP jo. UU No. 1 Tahun 2026 tentang Penyesuaian Pidana jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika	 Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika jo. Pasal 20 huruf c UU No. 1 Tahun 2023 tentang KUHP,putusan_007.pdf,3-7,Rifqia,Naswa,verified
+P007,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika jo. Pasal 20 huruf c UU No. 1 Tahun 2023 tentang KUHP,putusan_007.pdf,29,Rifqia,Naswa,verified
+P007,vonisBulan,20,putusan_007.pdf,29,Rifqia,Naswa,verified
+P008,nomorPerkara,397/Pen.Pid/Sus/2011/PN.Dpk,putusan_008.pdf,1,Rifqia,Naswa,verified
+P008,pengadilan,PN Dpk,putusan_008.pdf,1,Rifqia,Naswa,verified
+P008,tanggalPutusan,2011-10-17,putusan_008.pdf,21,Rifqia,Naswa,verified
+P008,terdakwaKode,T008,putusan_008.pdf,1,Rifqia,Naswa,verified
+P008,jenisNarkotika,Sabu,putusan_008.pdf,"2, 14, 19-20",Rifqia,Naswa,verified
+P008,beratBarangBuktiGram,0.9018,putusan_008.pdf,"3-4, 6, 8, 20",Rifqia,Naswa,verified
+P008,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Subsidiair: Pasal 112 ayat (1) UU No. 35 Tahun 2009	 Dan Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_008.pdf,2-8,Rifqia,Naswa,verified
+P008,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_008.pdf,20-21,Rifqia,Naswa,verified
+P008,vonisBulan,60,putusan_008.pdf,20-21,Rifqia,Naswa,verified
+P009,nomorPerkara,600/Pid.Sus/2010/PN.Dpk,putusan_009.pdf,1,Rifqia,Naswa,verified
+P009,pengadilan,PN Dpk,putusan_009.pdf,1,Rifqia,Naswa,verified
+P009,tanggalPutusan,2010-12-01,putusan_009.pdf,14,Rifqia,Naswa,verified
+P009,terdakwaKode,T009,putusan_009.pdf,1,Rifqia,Naswa,verified
+P009,jenisNarkotika,Ganja,putusan_009.pdf,"2, 9, 13-14",Rifqia,Naswa,verified
+P009,beratBarangBuktiGram,4.972,putusan_009.pdf,"2-6, 9, 12-14",Rifqia,Naswa,verified
+P009,pasalDakwaan,Pasal 114 ayat (1) / ayat (2) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 111 ayat (1) UU No. 35 Tahun 2009	 Atau Ketiga: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_009.pdf,2-6,Rifqia,Naswa,verified
+P009,pasalTerbukti,Pasal 111 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_009.pdf,13-14,Rifqia,Naswa,verified
+P009,vonisBulan,48,putusan_009.pdf,13-14,Rifqia,Naswa,verified
+P010,nomorPerkara,Nomor 448/Pid.Sus/2018/PN.Dpk,putusan_010.pdf,1,Rifqia,Naswa,verified
+P010,pengadilan,PN Dpk,putusan_010.pdf,1,Rifqia,Naswa,verified
+P010,tanggalPutusan,2018-10-10,putusan_010.pdf,24,Rifqia,Naswa,verified
+P010,terdakwaKode,T010,putusan_010.pdf,1,Rifqia,Naswa,verified
+P010,jenisNarkotika,Sabu,putusan_010.pdf,"3, 14, 23-24",Rifqia,Naswa,verified
+P010,beratBarangBuktiGram,0.1082,putusan_010.pdf,"5-9, 11-14, 20, 23-24",Rifqia,Naswa,verified
+P010,pasalDakwaan,Pasal 112 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_010.pdf,3-7,Rifqia,Naswa,verified
+P010,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika,putusan_010.pdf,23-24,Rifqia,Naswa,verified
+P010,vonisBulan,14,putusan_010.pdf,23-24,Rifqia,Naswa,verified
+P011,nomorPerkara,107/Pid/Sus/2012/PN.Dpk,putusan_011.pdf,1,Rifqia,Naswa,verified
+P011,pengadilan,PN Dpk,putusan_011.pdf,1,Rifqia,Naswa,verified
+P011,tanggalPutusan,2012-04-10,putusan_011.pdf,17,Rifqia,Naswa,verified
+P011,terdakwaKode,T011,putusan_011.pdf,1,Rifqia,Naswa,verified
+P011,jenisNarkotika,Ganja,putusan_011.pdf,"2, 11, 16",Rifqia,Naswa,verified
+P011,beratBarangBuktiGram,2.894,putusan_011.pdf,"3, 8, 11, 16",Rifqia,Naswa,verified
+P011,pasalDakwaan,Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_011.pdf,2-5,Rifqia,Naswa,verified
+P011,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_011.pdf,16-17,Rifqia,Naswa,verified
+P011,vonisBulan,60,putusan_011.pdf,16-17,Rifqia,Naswa,verified
+P012,nomorPerkara,286/Pid/Sus/2011/PN.Dpk,putusan_012.pdf,1,Rifqia,Naswa,verified
+P012,pengadilan,PN Dpk,putusan_012.pdf,1,Rifqia,Naswa,verified
+P012,tanggalPutusan,2011-08-16,putusan_012.pdf,23-24,Rifqia,Naswa,verified
+P012,terdakwaKode,T012,putusan_012.pdf,1,Rifqia,Naswa,verified
+P012,jenisNarkotika,Ganja,putusan_012.pdf,"2, 15-16, 23",Rifqia,Naswa,verified
+P012,beratBarangBuktiGram,1.5448,putusan_012.pdf,"3-5, 13, 15-16, 23",Rifqia,Naswa,verified
+P012,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 111 ayat (1) UU No. 35 Tahun 2009	 Atau Ketiga: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_012.pdf,3-6,Rifqia,Naswa,verified
+P012,pasalTerbukti,Pasal 111 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_012.pdf,23,Rifqia,Naswa,verified
+P012,vonisBulan,54,putusan_012.pdf,23,Rifqia,Naswa,verified
+P013,nomorPerkara,210/Pid.Sus/2012/PN.Dpk,putusan_013.pdf,1,Rifqia,Naswa,verified
+P013,pengadilan,PN Dpk,putusan_013.pdf,1,Rifqia,Naswa,verified
+P013,tanggalPutusan,2012-05-24,putusan_013.pdf,15,Rifqia,Naswa,verified
+P013,terdakwaKode,T013,putusan_013.pdf,1,Rifqia,Naswa,verified
+P013,jenisNarkotika,Sabu,putusan_013.pdf,"2, 10, 14-15",Rifqia,Naswa,verified
+P013,beratBarangBuktiGram,0.9028,putusan_013.pdf,"3, 7, 10, 14-15",Rifqia,Naswa,verified
+P013,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_013.pdf,2-5,Rifqia,Naswa,verified
+P013,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_013.pdf,14-15,Rifqia,Naswa,verified
+P013,vonisBulan,60,putusan_013.pdf,14-15,Rifqia,Naswa,verified
+P014,nomorPerkara,150/Pid.Sus/2025/PN Dpk,putusan_014.pdf,1,Rifqia,Naswa,verified
+P014,pengadilan,PN Dpk,putusan_014.pdf,1,Rifqia,Naswa,verified
+P014,tanggalPutusan,2025-06-02,putusan_014.pdf,20-21,Rifqia,Naswa,verified
+P014,terdakwaKode,T014,putusan_014.pdf,1,Rifqia,Naswa,verified
+P014,jenisNarkotika,Sabu,putusan_014.pdf,"2, 11, 20",Rifqia,Naswa,verified
+P014,beratBarangBuktiGram,0.1992,putusan_014.pdf,"3-4, 8, 11, 20",Rifqia,Naswa,verified
+P014,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_014.pdf,2-5,Rifqia,Naswa,verified
+P014,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_014.pdf,20,Rifqia,Naswa,verified
+P014,vonisBulan,60,putusan_014.pdf,20,Rifqia,Naswa,verified
+P015,nomorPerkara,698/Pid.Sus/2012/PN.Dpk,putusan_015.pdf,1,Rifqia,Naswa,verified
+P015,pengadilan,PN Dpk,putusan_015.pdf,1,Rifqia,Naswa,verified
+P015,tanggalPutusan,2013-02-07,putusan_015.pdf,17-18,Rifqia,Naswa,verified
+P015,terdakwaKode,T015,putusan_015.pdf,1,Rifqia,Naswa,verified
+P015,jenisNarkotika,Ganja,putusan_015.pdf,"2, 11, 17",Rifqia,Naswa,verified
+P015,beratBarangBuktiGram,1020.9,putusan_015.pdf,"3-4, 8, 11, 17",Rifqia,Naswa,verified
+P015,pasalDakwaan,Pasal 114 ayat (2) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 111 ayat (2) UU No. 35 Tahun 2009,putusan_015.pdf,2-5,Rifqia,Naswa,verified
+P015,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_015.pdf,17,Rifqia,Naswa,verified
+P015,vonisBulan,90,putusan_015.pdf,17,Rifqia,Naswa,verified
+P016,nomorPerkara,505/Pid.Sus/2025/PN Dpk,putusan_016.pdf,1,Rifqia,Naswa,verified
+P016,pengadilan,PN Dpk,putusan_016.pdf,1,Rifqia,Naswa,verified
+P016,tanggalPutusan,2026-01-05,putusan_016.pdf,22-23,Rifqia,Naswa,verified
+P016,terdakwaKode,T016,putusan_016.pdf,1,Rifqia,Naswa,verified
+P016,jenisNarkotika,Sabu,putusan_016.pdf,"2, 11, 22",Rifqia,Naswa,verified
+P016,beratBarangBuktiGram,0.1174,putusan_016.pdf,"3-4, 8, 11, 22",Rifqia,Naswa,verified
+P016,pasalDakwaan,Pertama: Pasal 114 ayat (1) Jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 112 ayat (1) Jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_016.pdf,2-5,Rifqia,Naswa,verified
+P016,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_016.pdf,22,Rifqia,Naswa,verified
+P016,vonisBulan,70,putusan_016.pdf,22,Rifqia,Naswa,verified
+P017,nomorPerkara,369/ Pid/Sus/2011/PN.Dpk,putusan_017.pdf,1,Rifqia,Naswa,verified
+P017,pengadilan,PN Dpk,putusan_017.pdf,1,Rifqia,Naswa,verified
+P017,tanggalPutusan,2011-09-26,putusan_017.pdf,14-15,Rifqia,Naswa,verified
+P017,terdakwaKode,T017,putusan_017.pdf,1,Rifqia,Naswa,verified
+P017,jenisNarkotika,Ganja,putusan_017.pdf,"2, 9, 14",Rifqia,Naswa,verified
+P017,beratBarangBuktiGram,4.3713,putusan_017.pdf,"3, 6, 9, 14",Rifqia,Naswa,verified
+P017,pasalDakwaan,Kesatu: Pasal 111 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_017.pdf,2-4,Rifqia,Naswa,verified
+P017,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika,putusan_017.pdf,14,Rifqia,Naswa,verified
+P017,vonisBulan,12,putusan_017.pdf,14,Rifqia,Naswa,verified
+P018,nomorPerkara,645/Pid.Sus/2012/PN.Dpk.,putusan_018.pdf,1,Rifqia,Naswa,verified
+P018,pengadilan,PN Dpk,putusan_018.pdf,1,Rifqia,Naswa,verified
+P018,tanggalPutusan,2012-12-05,putusan_018.pdf,15-16,Rifqia,Naswa,verified
+P018,terdakwaKode,T018,putusan_018.pdf,1,Rifqia,Naswa,verified
+P018,jenisNarkotika,Ganja,putusan_018.pdf,"2, 11, 15",Rifqia,Naswa,verified
+P018,beratBarangBuktiGram,85.6,putusan_018.pdf,"3, 8, 11, 15",Rifqia,Naswa,verified
+P018,pasalDakwaan,Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_018.pdf,2-5,Rifqia,Naswa,verified
+P018,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_018.pdf,15,Rifqia,Naswa,verified
+P018,vonisBulan,72,putusan_018.pdf,15,Rifqia,Naswa,verified
+P019,nomorPerkara,339/Pid.Sus/2025/PN Dpk,putusan_019.pdf,1,Rifqia,Naswa,verified
+P019,pengadilan,PN Dpk,putusan_019.pdf,1,Rifqia,Naswa,verified
+P019,tanggalPutusan,2025-11-05,putusan_019.pdf,51,Rifqia,Naswa,verified
+P019,terdakwaKode,T019,putusan_019.pdf,1,Rifqia,Naswa,verified
+P019,jenisNarkotika,Sabu,putusan_019.pdf,"2-10, 28-32, 41-45, 47-51",Rifqia,Naswa,verified
+P019,beratBarangBuktiGram,42.1252,putusan_019.pdf,"2-8, 13, 15, 17, 19-21, 23, 25, 27-34, 36, 38-39, 41-44, 47-50",Rifqia,Naswa,verified
+P019,pasalDakwaan,Primair: Pasal 114 ayat (2) UU No. 35 Tahun 2009	 Subsidair: Pasal 112 ayat (2) UU No. 35 Tahun 2009,putusan_019.pdf,11-20,Rifqia,Naswa,verified
+P019,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 tentang Narkotika,putusan_019.pdf,46-51,Rifqia,Naswa,verified
+P019,vonisBulan,168,putusan_019.pdf,46-51,Rifqia,Naswa,verified
+P020,nomorPerkara,211/Pid.Sus/2014/PN.Dpk.,putusan_020.pdf,1,Rifqia,Naswa,verified
+P020,pengadilan,PN Dpk,putusan_020.pdf,1,Rifqia,Naswa,verified
+P020,tanggalPutusan,2014-05-06,putusan_020.pdf,14,Rifqia,Naswa,verified
+P020,terdakwaKode,T020,putusan_020.pdf,1,Rifqia,Naswa,verified
+P020,jenisNarkotika,Ganja,putusan_020.pdf,"2, 10, 13, 14",Rifqia,Naswa,verified
+P020,beratBarangBuktiGram,0.8392,putusan_020.pdf,"2, 4, 6, 7, 10, 11, 13, 14",Rifqia,Naswa,verified
+P020,pasalDakwaan,Pertama: Pasal 111 ayat (1) huruf a UU No. 35 Tahun 2009 jo. UU No. 3 Tahun 1997	 Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 jo. UU No. 3 Tahun 1997,putusan_020.pdf,3-6,Rifqia,Naswa,verified
+P020,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika jo. UU No. 3 Tahun 1997 tentang Pengadilan Anak,putusan_020.pdf,14,Rifqia,Naswa,verified
+P020,vonisBulan,6,putusan_020.pdf,14,Rifqia,Naswa,verified
+P021,nomorPerkara,29/Pid.Sus/2019/PN Dpk,putusan_021.pdf,1,Rifqia,Naswa,verified
+P021,pengadilan,PN Dpk,putusan_021.pdf,1,Rifqia,Naswa,verified
+P021,tanggalPutusan,2019-03-20,putusan_021.pdf,17,Rifqia,Naswa,verified
+P021,terdakwaKode,T021,putusan_021.pdf,1,Rifqia,Naswa,verified
+P021,jenisNarkotika,Ganja,putusan_021.pdf,"2, 11, 16, 17",Rifqia,Naswa,verified
+P021,beratBarangBuktiGram,1.6694,putusan_021.pdf,"2, 4, 6, 7, 11, 15, 16, 17",Rifqia,Naswa,verified
+P021,pasalDakwaan,Pertama: Pasal 111 ayat (1) UU No. 35 Tahun 2009	 Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_021.pdf,2-7,Rifqia,Naswa,verified
+P021,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika,putusan_021.pdf,16-17,Rifqia,Naswa,verified
+P021,vonisBulan,28,putusan_021.pdf,16-17,Rifqia,Naswa,verified
+P022,nomorPerkara,509/Pid.Sus/2012/PN.Dpk,putusan_022.pdf,1,Rifqia,Naswa,verified
+P022,pengadilan,PN Dpk,putusan_022.pdf,1,Rifqia,Naswa,verified
+P022,tanggalPutusan,2012-10-01,putusan_022.pdf,19,Rifqia,Naswa,verified
+P022,terdakwaKode,T022,putusan_022.pdf,1,Rifqia,Naswa,verified
+P022,jenisNarkotika,Ganja,putusan_022.pdf,"2-3, 12, 18, 19",Rifqia,Naswa,verified
+P022,beratBarangBuktiGram,0.376,putusan_022.pdf,"2, 4, 6, 12, 17, 18, 19",Rifqia,Naswa,verified
+P022,pasalDakwaan,Pertama: Pasal 111 ayat (1) UU No. 35 Tahun 2009	 Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_022.pdf,3-6,Rifqia,Naswa,verified
+P022,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika,putusan_022.pdf,19,Rifqia,Naswa,verified
+P022,vonisBulan,5,putusan_022.pdf,19,Rifqia,Naswa,verified
+P023,nomorPerkara,93/Pid/Sus/2013/PN.Dpk,putusan_023.pdf,1,Rifqia,Naswa,verified
+P023,pengadilan,PN Dpk,putusan_023.pdf,1,Rifqia,Naswa,verified
+P023,tanggalPutusan,2013-04-02,putusan_023.pdf,19,Rifqia,Naswa,verified
+P023,terdakwaKode,T023,putusan_023.pdf,1,Rifqia,Naswa,verified
+P023,jenisNarkotika,Ganja,putusan_023.pdf,"2, 6, 18, 19",Rifqia,Naswa,verified
+P023,beratBarangBuktiGram,3.7993,putusan_023.pdf,"2, 3, 4, 5, 6, 14, 16, 18, 19",Rifqia,Naswa,verified
+P023,pasalDakwaan,Subsidairitas: Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Subsidair: Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_023.pdf,3-5,Rifqia,Naswa,verified
+P023,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_023.pdf,19,Rifqia,Naswa,verified
+P023,vonisBulan,60,putusan_023.pdf,19,Rifqia,Naswa,verified
+P024,nomorPerkara,255 / PID. Sus / 2018 / PN. Dpk.,putusan_024.pdf,1,Rifqia,Naswa,verified
+P024,pengadilan,PN Dpk,putusan_024.pdf,1,Rifqia,Naswa,verified
+P024,tanggalPutusan,2018-07-09,putusan_024.pdf,16,Rifqia,Naswa,verified
+P024,terdakwaKode,T024,putusan_024.pdf,1,Rifqia,Naswa,verified
+P024,jenisNarkotika,Sabu,putusan_024.pdf,"2, 9, 14, 15-16",Rifqia,Naswa,verified
+P024,beratBarangBuktiGram,0.0323,putusan_024.pdf,"2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15",Rifqia,Naswa,verified
+P024,pasalDakwaan,Pertama: Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_024.pdf,3-6,Rifqia,Naswa,verified
+P024,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_024.pdf,15-16,Rifqia,Naswa,verified
+P024,vonisBulan,54,putusan_024.pdf,15-16,Rifqia,Naswa,verified
+P025,nomorPerkara,150/Pid.Sus/2018/PN.Dpk,putusan_025.pdf,1,Rifqia,Naswa,verified
+P025,pengadilan,PN Dpk,putusan_025.pdf,1,Rifqia,Naswa,verified
+P025,tanggalPutusan,2018-04-23,putusan_025.pdf,20,Rifqia,Naswa,verified
+P025,terdakwaKode,T025,putusan_025.pdf,1,Rifqia,Naswa,verified
+P025,jenisNarkotika,Sabu,putusan_025.pdf,"2, 10, 18, 20",Rifqia,Naswa,verified
+P025,beratBarangBuktiGram,0.1329,putusan_025.pdf,"2, 4, 6, 10, 11, 16, 18, 20",Rifqia,Naswa,verified
+P025,pasalDakwaan,Pertama (Kesatu): Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_025.pdf,3-6,Rifqia,Naswa,verified
+P025,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_025.pdf,19-20,Rifqia,Naswa,verified
+P025,vonisBulan,48,putusan_025.pdf,19-20,Rifqia,Naswa,verified
+P026,nomorPerkara,661/Pid.Sus/2018/PN.Dpk,putusan_026.pdf,1,Nazwa,Rifqia,verified
+P026,pengadilan,PN Dpk,putusan_026.pdf,1,Nazwa,Rifqia,verified
+P026,tanggalPutusan,2019-02-28,putusan_026.pdf,22-23,Nazwa,Rifqia,verified
+P026,terdakwaKode,T026,putusan_026.pdf,1,Nazwa,Rifqia,verified
+P026,jenisNarkotika,Shabu dan Ganja,putusan_026.pdf,"2-3, 11-12, 20-22",Nazwa,Rifqia,verified
+P026,beratBarangBuktiGram,1.7746,putusan_026.pdf,"2, 4-5, 7, 11-14, 17, 19-20, 22",Nazwa,Rifqia,verified
+P026,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009	 Subsidiair: Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009	 Dan Kedua: Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_026.pdf,3-8,Nazwa,Rifqia,verified
+P026,pasalTerbukti,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika dan Pasal 111 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_026.pdf,21-22,Nazwa,Rifqia,verified
+P026,vonisBulan,84,putusan_026.pdf,21-22,Nazwa,Rifqia,verified
+P027,nomorPerkara,126/Pid.Sus /2018/PN.Dpk,putusan_027.pdf,1,Nazwa,Rifqia,verified
+P027,pengadilan,PN Dpk,putusan_027.pdf,1,Nazwa,Rifqia,verified
+P027,tanggalPutusan,2018-05-08,putusan_027.pdf,23,Nazwa,Rifqia,verified
+P027,terdakwaKode,T027,putusan_027.pdf,1,Nazwa,Rifqia,verified
+P027,jenisNarkotika,sabu,putusan_027.pdf,"2-3, 15-16, 21-23",Nazwa,Rifqia,verified
+P027,beratBarangBuktiGram,7.4345,putusan_027.pdf,"2, 5-6, 8-9, 11, 16, 21-22",Nazwa,Rifqia,verified
+P027,pasalDakwaan,Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009	 Dan Ketiga: Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_027.pdf,3-11,Nazwa,Rifqia,verified
+P027,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_027.pdf,22-23,Nazwa,Rifqia,verified
+P027,vonisBulan,60,putusan_027.pdf,22-23,Nazwa,Rifqia,verified
+P028,nomorPerkara,228/Pid.Sus/2022/PN Dpk,putusan_028.pdf,1,Nazwa,Rifqia,verified
+P028,pengadilan,PN Dpk,putusan_028.pdf,1,Nazwa,Rifqia,verified
+P028,tanggalPutusan,2022-06-28,putusan_028.pdf,22,Nazwa,Rifqia,verified
+P028,terdakwaKode,T028,putusan_028.pdf,1,Nazwa,Rifqia,verified
+P028,jenisNarkotika,sabu,putusan_028.pdf,"2-3, 12-13, 21-22",Nazwa,Rifqia,verified
+P028,beratBarangBuktiGram,3.5058,putusan_028.pdf,"2, 6-7, 13, 15, 20-22",Nazwa,Rifqia,verified
+P028,pasalDakwaan,Pertama: Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_028.pdf,3-8,Nazwa,Rifqia,verified
+P028,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_028.pdf,22,Nazwa,Rifqia,verified
+P028,vonisBulan,72,putusan_028.pdf,22,Nazwa,Rifqia,verified
+P029,nomorPerkara,583/Pid/Sus/2011/PN.Dpk,putusan_029.pdf,1,Nazwa,Rifqia,verified
+P029,pengadilan,PN Dpk,putusan_029.pdf,1,Nazwa,Rifqia,verified
+P029,tanggalPutusan,2012-01-11,putusan_029.pdf,13,Nazwa,Rifqia,verified
+P029,terdakwaKode,T029,putusan_029.pdf,1,Nazwa,Rifqia,verified
+P029,jenisNarkotika,Ganja,putusan_029.pdf,"2, 8, 12-13",Nazwa,Rifqia,verified
+P029,beratBarangBuktiGram,29.8724,putusan_029.pdf,"2-3, 5, 8, 12-13",Nazwa,Rifqia,verified
+P029,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Subsidiair: Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_029.pdf,2-5,Nazwa,Rifqia,verified
+P029,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_029.pdf,13,Nazwa,Rifqia,verified
+P029,vonisBulan,72,putusan_029.pdf,13,Nazwa,Rifqia,verified
+P030,nomorPerkara,380/ Pid/Sus/2011/PN.Dpk,putusan_030.pdf,1,Nazwa,Rifqia,verified
+P030,pengadilan,PN Dpk,putusan_030.pdf,1,Nazwa,Rifqia,verified
+P030,tanggalPutusan,2011-09-21,putusan_030.pdf,14,Nazwa,Rifqia,verified
+P030,terdakwaKode,T030,putusan_030.pdf,1,Nazwa,Rifqia,verified
+P030,jenisNarkotika,Ganja,putusan_030.pdf,"2, 9, 13-14",Nazwa,Rifqia,verified
+P030,beratBarangBuktiGram,1.7274,putusan_030.pdf,"2, 4-5, 9, 12-14",Nazwa,Rifqia,verified
+P030,pasalDakwaan,Pertama: Pasal 111 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_030.pdf,3-5,Nazwa,Rifqia,verified
+P030,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika,putusan_030.pdf,14,Nazwa,Rifqia,verified
+P030,vonisBulan,18,putusan_030.pdf,14,Nazwa,Rifqia,verified
+P031,nomorPerkara,575/Pid.Sus/2018/PN.Dpk.,putusan_031.pdf,1,Nazwa,Rifqia,verified
+P031,pengadilan,PN Dpk,putusan_031.pdf,1,Nazwa,Rifqia,verified
+P031,tanggalPutusan,2019-01-03,putusan_031.pdf,28,Nazwa,Rifqia,verified
+P031,terdakwaKode,T031,putusan_031.pdf,1,Nazwa,Rifqia,verified
+P031,jenisNarkotika,Sabu,putusan_031.pdf,"3, 4, 27, 28",Nazwa,Rifqia,verified
+P031,beratBarangBuktiGram,0.1389,putusan_031.pdf,"4, 5, 6, 7, 16, 23",Nazwa,Rifqia,verified
+P031,pasalDakwaan,Pertama: Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_031.pdf,4-8,Nazwa,Rifqia,verified
+P031,pasalTerbukti,Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_031.pdf,27-28,Nazwa,Rifqia,verified
+P031,vonisBulan,54,putusan_031.pdf,27-28,Nazwa,Rifqia,verified
+P032,nomorPerkara,741/Pid.B/2009/PN.Dpk,putusan_032.pdf,1,Nazwa,Rifqia,verified
+P032,pengadilan,PN Dpk,putusan_032.pdf,1,Nazwa,Rifqia,verified
+P032,tanggalPutusan,2010-01-06,putusan_032.pdf,9,Nazwa,Rifqia,verified
+P032,terdakwaKode,T032,putusan_032.pdf,1,Nazwa,Rifqia,verified
+P032,jenisNarkotika,Ganja,putusan_032.pdf,"2, 3, 5, 7, 8",Nazwa,Rifqia,verified
+P032,beratBarangBuktiGram,0.597,putusan_032.pdf,"2, 3, 5, 7, 8",Nazwa,Rifqia,verified
+P032,pasalDakwaan,Primair: Pasal 78 ayat (1) huruf a UU No. 22 Tahun 1997	 Subsidair: Pasal 85 huruf a UU No. 22 Tahun 1997,putusan_032.pdf,2-4,Nazwa,Rifqia,verified
+P032,pasalTerbukti,Pasal 78 ayat (1) huruf a UU No. 22 Tahun 1997 tentang Narkotika,putusan_032.pdf,8-9,Nazwa,Rifqia,verified
+P032,vonisBulan,16,putusan_032.pdf,8-9,Nazwa,Rifqia,verified
+P033,nomorPerkara,189/Pid.Sus/2014/PN.Dpk,putusan_033.pdf,1,Nazwa,Rifqia,verified
+P033,pengadilan,PN Dpk,putusan_033.pdf,1,Nazwa,Rifqia,verified
+P033,tanggalPutusan,2014-05-06,putusan_033.pdf,15,Nazwa,Rifqia,verified
+P033,terdakwaKode,T033,putusan_033.pdf,1,Nazwa,Rifqia,verified
+P033,jenisNarkotika,Ganja,putusan_033.pdf,"2, 3, 8, 13, 14, 15",Nazwa,Rifqia,verified
+P033,beratBarangBuktiGram,3.2424,putusan_033.pdf,"2, 3, 4, 8, 13, 14, 15",Nazwa,Rifqia,verified
+P033,pasalDakwaan,Pertama: Pasal 111 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_033.pdf,2-5,Nazwa,Rifqia,verified
+P033,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika,putusan_033.pdf,14-15,Nazwa,Rifqia,verified
+P033,vonisBulan,12,putusan_033.pdf,14-15,Nazwa,Rifqia,verified
+P034,nomorPerkara,198/Pid.Sus/2014/PN.Dpk,putusan_034.pdf,1,Nazwa,Rifqia,verified
+P034,pengadilan,PN Dpk,putusan_034.pdf,1,Nazwa,Rifqia,verified
+P034,tanggalPutusan,2014-05-22,putusan_034.pdf,22,Nazwa,Rifqia,verified
+P034,terdakwaKode,T034,putusan_034.pdf,1,Nazwa,Rifqia,verified
+P034,jenisNarkotika,Ganja,putusan_034.pdf,"2, 12, 20, 21, 22",Nazwa,Rifqia,verified
+P034,beratBarangBuktiGram,1.0273,putusan_034.pdf,"2, 5, 6, 7, 8, 12, 20, 21, 22",Nazwa,Rifqia,verified
+P034,pasalDakwaan,Pertama: Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 111 ayat (1) UU No. 35 Tahun 2009	 Atau Ketiga: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_034.pdf,3-8,Nazwa,Rifqia,verified
+P034,pasalTerbukti,Pasal 111 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_034.pdf,21-22,Nazwa,Rifqia,verified
+P034,vonisBulan,48,putusan_034.pdf,21-22,Nazwa,Rifqia,verified
+P035,nomorPerkara,622/Pid.Sus/2012/PN.Dpk,putusan_035.pdf,1,Nazwa,Rifqia,verified
+P035,pengadilan,PN Dpk,putusan_035.pdf,1,Nazwa,Rifqia,verified
+P035,tanggalPutusan,2012-12-12,putusan_035.pdf,16,Nazwa,Rifqia,verified
+P035,terdakwaKode,T035,putusan_035.pdf,1,Nazwa,Rifqia,verified
+P035,jenisNarkotika,Ganja,putusan_035.pdf,"2, 4, 5, 8, 13, 14, 15, 16",Nazwa,Rifqia,verified
+P035,beratBarangBuktiGram,3.4795,putusan_035.pdf,"2, 4, 5, 8, 9, 13, 14, 15, 16",Nazwa,Rifqia,verified
+P035,pasalDakwaan,Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_035.pdf,3-4,Nazwa,Rifqia,verified
+P035,pasalTerbukti,Pasal 111 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_035.pdf,15-16,Nazwa,Rifqia,verified
+P035,vonisBulan,60,putusan_035.pdf,15-16,Nazwa,Rifqia,verified
+P036,nomorPerkara,309/Pid.Sus/2012/PN.Dpk,putusan_036.pdf,1,Nazwa,Rifqia,verified
+P036,pengadilan,PN Dpk,putusan_036.pdf,1,Nazwa,Rifqia,verified
+P036,tanggalPutusan,2012-07-11,putusan_036.pdf,15,Nazwa,Rifqia,verified
+P036,terdakwaKode,T036,putusan_036.pdf,1,Nazwa,Rifqia,verified
+P036,jenisNarkotika,Sabu,putusan_036.pdf,"3, 4, 8, 13, 14, 15",Nazwa,Rifqia,verified
+P036,beratBarangBuktiGram,0.1378,putusan_036.pdf,"3, 4, 8, 13, 14, 15",Nazwa,Rifqia,verified
+P036,pasalDakwaan,Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_036.pdf,3-4,Nazwa,Rifqia,verified
+P036,pasalTerbukti,Pasal 132 ayat (1) jo. Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_036.pdf,15,Nazwa,Rifqia,verified
+P036,vonisBulan,48,putusan_036.pdf,15,Nazwa,Rifqia,verified
+P037,nomorPerkara,634/Pid.Sus/2012/PN.Dpk,putusan_037.pdf,1,Nazwa,Rifqia,verified
+P037,pengadilan,PN Dpk,putusan_037.pdf,1,Nazwa,Rifqia,verified
+P037,tanggalPutusan,2012-12-10,putusan_037.pdf,19,Nazwa,Rifqia,verified
+P037,terdakwaKode,T037,putusan_037.pdf,1,Nazwa,Rifqia,verified
+P037,jenisNarkotika,Ganja,putusan_037.pdf,"2, 3, 4, 10, 17, 18",Nazwa,Rifqia,verified
+P037,beratBarangBuktiGram,11.6984,putusan_037.pdf,"2, 3, 4, 5, 6, 10, 17, 18",Nazwa,Rifqia,verified
+P037,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Subsidair: Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_037.pdf,3-6,Nazwa,Rifqia,verified
+P037,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_037.pdf,18-19,Nazwa,Rifqia,verified
+P037,vonisBulan,60,putusan_037.pdf,18-19,Nazwa,Rifqia,verified
+P038,nomorPerkara,223/Pen.Pid/Sus/2011/PN.Dpk,putusan_038.pdf,1,Nazwa,Rifqia,verified
+P038,pengadilan,PN Dpk,putusan_038.pdf,1,Nazwa,Rifqia,verified
+P038,tanggalPutusan,2011-06-22,putusan_038.pdf,13,Nazwa,Rifqia,verified
+P038,terdakwaKode,T038,putusan_038.pdf,1,Nazwa,Rifqia,verified
+P038,jenisNarkotika,Ganja,putusan_038.pdf,"2, 3, 5, 9, 13",Nazwa,Rifqia,verified
+P038,beratBarangBuktiGram,1.0947,putusan_038.pdf,"2, 3, 5, 9, 13",Nazwa,Rifqia,verified
+P038,pasalDakwaan,Kesatu: Pasal 111 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_038.pdf,2-5,Nazwa,Rifqia,verified
+P038,pasalTerbukti,Pasal 111 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_038.pdf,13,Nazwa,Rifqia,verified
+P038,vonisBulan,60,putusan_038.pdf,13,Nazwa,Rifqia,verified
+P039,nomorPerkara,110/Pid.Sus/2011/PN.Dpk,putusan_039.pdf,1,Nazwa,Rifqia,verified
+P039,pengadilan,PN Dpk,putusan_039.pdf,1,Nazwa,Rifqia,verified
+P039,tanggalPutusan,2011-04-13,putusan_039.pdf,16,Nazwa,Rifqia,verified
+P039,terdakwaKode,T039,putusan_039.pdf,1,Nazwa,Rifqia,verified
+P039,jenisNarkotika,Sabu,putusan_039.pdf,"2, 3, 4, 10, 14, 15",Nazwa,Rifqia,verified
+P039,beratBarangBuktiGram,0.0604,putusan_039.pdf,"2, 3, 4, 10, 14, 15",Nazwa,Rifqia,verified
+P039,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_039.pdf,2-4,Nazwa,Rifqia,verified
+P039,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_039.pdf,15-16,Nazwa,Rifqia,verified
+P039,vonisBulan,66,putusan_039.pdf,15-16,Nazwa,Rifqia,verified
+P040,nomorPerkara,126/Pid.B/2010/PN.Dpk,putusan_040.pdf,1,Nazwa,Rifqia,verified
+P040,pengadilan,PN Dpk,putusan_040.pdf,1,Nazwa,Rifqia,verified
+P040,tanggalPutusan,2010-05-10,putusan_040.pdf,12,Nazwa,Rifqia,verified
+P040,terdakwaKode,T040,putusan_040.pdf,1,Nazwa,Rifqia,verified
+P040,jenisNarkotika,Sabu,putusan_040.pdf,"2, 3, 4, 7, 10, 11, 12",Nazwa,Rifqia,verified
+P040,beratBarangBuktiGram,1.329,putusan_040.pdf,"2, 3, 4, 7, 10, 11, 12",Nazwa,Rifqia,verified
+P040,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_040.pdf,2-4,Nazwa,Rifqia,verified
+P040,pasalTerbukti,Pasal 112 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_040.pdf,11-12,Nazwa,Rifqia,verified
+P040,vonisBulan,78,putusan_040.pdf,11-12,Nazwa,Rifqia,verified
+P041,nomorPerkara,184/Pid.Sus/2011/PN.Dpk,putusan_041.pdf,1,Nazwa,Rifqia,verified
+P041,pengadilan,PN Dpk,putusan_041.pdf,1,Nazwa,Rifqia,verified
+P041,tanggalPutusan,2011-05-18,putusan_041.pdf,14,Nazwa,Rifqia,verified
+P041,terdakwaKode,T041,putusan_041.pdf,1,Nazwa,Rifqia,verified
+P041,jenisNarkotika,Ganja,putusan_041.pdf,"2, 9, 13-14",Nazwa,Rifqia,verified
+P041,beratBarangBuktiGram,1.1673,putusan_041.pdf,"2-3, 5, 9, 12-14",Nazwa,Rifqia,verified
+P041,pasalDakwaan,Pertama: Pasal 111 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_041.pdf,2-5,Nazwa,Rifqia,verified
+P041,pasalTerbukti,Pasal 111 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_041.pdf,14,Nazwa,Rifqia,verified
+P041,vonisBulan,54,putusan_041.pdf,14,Nazwa,Rifqia,verified
+P042,nomorPerkara,703 / Pid.Sus / 2017 / PN.DPK,putusan_042.pdf,1,Nazwa,Rifqia,verified
+P042,pengadilan,PN Dpk,putusan_042.pdf,1,Nazwa,Rifqia,verified
+P042,tanggalPutusan,2018-01-10,putusan_042.pdf,20,Nazwa,Rifqia,verified
+P042,terdakwaKode,T042,putusan_042.pdf,1,Nazwa,Rifqia,verified
+P042,jenisNarkotika,Sabu,putusan_042.pdf,"2, 12, 18-19",Nazwa,Rifqia,verified
+P042,beratBarangBuktiGram,0.1283,putusan_042.pdf,"2-4, 12, 18-19",Nazwa,Rifqia,verified
+P042,pasalDakwaan,Pertama: Pasal 112 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_042.pdf,2-6,Nazwa,Rifqia,verified
+P042,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika,putusan_042.pdf,19-20,Nazwa,Rifqia,verified
+P042,vonisBulan,12,putusan_042.pdf,19-20,Nazwa,Rifqia,verified
+P043,nomorPerkara,79 /PID/SUS/2012/PN.DPK,putusan_043.pdf,1,Nazwa,Rifqia,verified
+P043,pengadilan,PN Dpk,putusan_043.pdf,1,Nazwa,Rifqia,verified
+P043,tanggalPutusan,2013-01-17,putusan_043.pdf,19,Nazwa,Rifqia,verified
+P043,terdakwaKode,T043,putusan_043.pdf,1-2,Nazwa,Rifqia,verified
+P043,jenisNarkotika,Ganja,putusan_043.pdf,"3, 7, 18-19",Nazwa,Rifqia,verified
+P043,beratBarangBuktiGram,112.8,putusan_043.pdf,"3, 6-8, 11, 14-19",Nazwa,Rifqia,verified
+P043,pasalDakwaan,Kesatu: Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 111 ayat (1) UU No. 35 Tahun 2009,putusan_043.pdf,3-7,Nazwa,Rifqia,verified
+P043,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_043.pdf,19,Nazwa,Rifqia,verified
+P043,vonisBulan,102,putusan_043.pdf,19,Nazwa,Rifqia,verified
+P044,nomorPerkara,30/Pid.Sus/2014/PN.Dpk,putusan_044.pdf,1,Nazwa,Rifqia,verified
+P044,pengadilan,PN Dpk,putusan_044.pdf,1,Nazwa,Rifqia,verified
+P044,tanggalPutusan,2014-02-18,putusan_044.pdf,18,Nazwa,Rifqia,verified
+P044,terdakwaKode,T044,putusan_044.pdf,1-2,Nazwa,Rifqia,verified
+P044,jenisNarkotika,Sabu,putusan_044.pdf,"2, 11, 17-18",Nazwa,Rifqia,verified
+P044,beratBarangBuktiGram,0.0343,putusan_044.pdf,"2, 4, 7, 11, 16-18",Nazwa,Rifqia,verified
+P044,pasalDakwaan,Pertama: Pasal 112 ayat (1) UU No. 35 Tahun 2009	 Atau Kedua: Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009,putusan_044.pdf,3-7,Nazwa,Rifqia,verified
+P044,pasalTerbukti,Pasal 127 ayat (1) huruf a UU No. 35 Tahun 2009 tentang Narkotika,putusan_044.pdf,18,Nazwa,Rifqia,verified
+P044,vonisBulan,6,putusan_044.pdf,18,Nazwa,Rifqia,verified
+P045,nomorPerkara,111/Pid.Sus/2011/PN.Dpk,putusan_045.pdf,1,Nazwa,Rifqia,verified
+P045,pengadilan,PN Dpk,putusan_045.pdf,1,Nazwa,Rifqia,verified
+P045,tanggalPutusan,2011-04-13,putusan_045.pdf,15,Nazwa,Rifqia,verified
+P045,terdakwaKode,T045,putusan_045.pdf,1,Nazwa,Rifqia,verified
+P045,jenisNarkotika,Sabu,putusan_045.pdf,"2, 9, 13-14",Nazwa,Rifqia,verified
+P045,beratBarangBuktiGram,0.0604,putusan_045.pdf,"2-3, 9, 13-14",Nazwa,Rifqia,verified
+P045,pasalDakwaan,Primair: Pasal 114 ayat (1) UU No. 35 Tahun 2009	 Subsidair: Pasal 112 ayat (1) UU No. 35 Tahun 2009,putusan_045.pdf,2-3,Nazwa,Rifqia,verified
+P045,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika,putusan_045.pdf,14,Nazwa,Rifqia,verified
+P045,vonisBulan,66,putusan_045.pdf,14,Nazwa,Rifqia,verified
+P046,nomorPerkara,824/Pid.B/2009/PN.Dpk,putusan_046.pdf,1,Nazwa,Rifqia,verified
+P046,pengadilan,PN Dpk,putusan_046.pdf,1,Nazwa,Rifqia,verified
+P046,tanggalPutusan,2009-12-16,putusan_046.pdf,11,Nazwa,Rifqia,verified
+P046,terdakwaKode,T046,putusan_046.pdf,1,Nazwa,Rifqia,verified
+P046,jenisNarkotika,Ganja,putusan_046.pdf,"2-3, 5-7, 10-11",Nazwa,Rifqia,verified
+P046,beratBarangBuktiGram,13.96,putusan_046.pdf,"2-4, 7, 10-11",Nazwa,Rifqia,verified
+P046,pasalDakwaan,Primair: Pasal 82 ayat (1) huruf a UU RI No. 22 Tahun 1997	 Subsidair: Pasal 78 ayat (1) huruf a UU RI No. 22 Tahun 1997,putusan_046.pdf,"2-4, 8",Nazwa,Rifqia,verified
+P046,pasalTerbukti,Pasal 82 ayat (1) huruf a UU RI No. 22 Tahun 1997 tentang Narkotika,putusan_046.pdf,11,Nazwa,Rifqia,verified
+P046,vonisBulan,39,putusan_046.pdf,11,Nazwa,Rifqia,verified
+P047,nomorPerkara,824/Pid.B/2009/PN.Dpk,putusan_047.pdf,1,Nazwa,Rifqia,verified
+P047,pengadilan,PN Dpk,putusan_047.pdf,1,Nazwa,Rifqia,verified
+P047,tanggalPutusan,2012-02-09,putusan_047.pdf,14,Nazwa,Rifqia,verified
+P047,terdakwaKode,T047,putusan_047.pdf,1,Nazwa,Rifqia,verified
+P047,jenisNarkotika,Sabu,putusan_047.pdf,"2-3, 8, 13-14",Nazwa,Rifqia,verified
+P047,beratBarangBuktiGram,0.0593,putusan_047.pdf,"2, 4-5, 8, 13-14",Nazwa,Rifqia,verified
+P047,pasalDakwaan,Pertama: Pasal 114 ayat (1) UU RI No. 35 Tahun 2009	 Atau Kedua: Pasal 112 ayat (1) UU RI No. 35 Tahun 2009,putusan_047.pdf,2-5,Nazwa,Rifqia,verified
+P047,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_047.pdf,14,Nazwa,Rifqia,verified
+P047,vonisBulan,60,putusan_047.pdf,14,Nazwa,Rifqia,verified
+P048,nomorPerkara,76/Pid.B/2013/PN.Dpk.,putusan_048.pdf,1,Nazwa,Rifqia,verified
+P048,pengadilan,PN Dpk,putusan_048.pdf,1,Nazwa,Rifqia,verified
+P048,tanggalPutusan,2013-04-01,putusan_048.pdf,11,Nazwa,Rifqia,verified
+P048,terdakwaKode,T048,putusan_048.pdf,1,Nazwa,Rifqia,verified
+P048,jenisNarkotika,Ganja,putusan_048.pdf,"2-8, 10-11",Nazwa,Rifqia,verified
+P048,beratBarangBuktiGram,9.9699,putusan_048.pdf,"2, 4-5, 8, 10-11",Nazwa,Rifqia,verified
+P048,pasalDakwaan,Primair: Pasal 114 ayat (1) UU RI No. 35 Tahun 2009	 Subsidair: Pasal 111 ayat (1) UU RI No. 35 Tahun 2009,putusan_048.pdf,"3-5, 8",Nazwa,Rifqia,verified
+P048,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_048.pdf,10-11,Nazwa,Rifqia,verified
+P048,vonisBulan,60,putusan_048.pdf,10-11,Nazwa,Rifqia,verified
+P049,nomorPerkara,825/Pid.B/2009/PN.Dpk,putusan_049.pdf,1,Nazwa,Rifqia,verified
+P049,pengadilan,PN Dpk,putusan_049.pdf,1,Nazwa,Rifqia,verified
+P049,tanggalPutusan,2009-12-16,putusan_049.pdf,12,Nazwa,Rifqia,verified
+P049,terdakwaKode,T049,putusan_049.pdf,1,Nazwa,Rifqia,verified
+P049,jenisNarkotika,Ganja,putusan_049.pdf,"2-8, 10-12",Nazwa,Rifqia,verified
+P049,beratBarangBuktiGram,13.96,putusan_049.pdf,"2-4, 8, 11-12",Nazwa,Rifqia,verified
+P049,pasalDakwaan,Primair: Pasal 82 ayat (1) huruf a UU RI No. 22 Tahun 1997	 Subsidair: Pasal 78 ayat (1) huruf a UU RI No. 22 Tahun 1997,putusan_049.pdf,"2-4, 9",Nazwa,Rifqia,verified
+P049,pasalTerbukti,Pasal 82 ayat (1) huruf a UU RI No. 22 Tahun 1997 tentang Narkotika,putusan_049.pdf,11-12,Nazwa,Rifqia,verified
+P049,vonisBulan,39,putusan_049.pdf,11-12,Nazwa,Rifqia,verified
+P050,nomorPerkara,102/Pid.Sus/2019/PN.DPK,putusan_050.pdf,1,Nazwa,Rifqia,verified
+P050,pengadilan,PN Dpk,putusan_050.pdf,1,Nazwa,Rifqia,verified
+P050,tanggalPutusan,2019-04-25,putusan_050.pdf,15,Nazwa,Rifqia,verified
+P050,terdakwaKode,T050,putusan_050.pdf,1,Nazwa,Rifqia,verified
+P050,jenisNarkotika,Ganja,putusan_050.pdf,"2-10, 12-14",Nazwa,Rifqia,verified
+P050,beratBarangBuktiGram,15.6845,putusan_050.pdf,"2, 4-5, 8-10, 13-14",Nazwa,Rifqia,verified
+P050,pasalDakwaan,Kesatu: Pasal 114 ayat (1) UU RI No. 35 Tahun 2009	 Atau Kedua: Pasal 111 ayat (1) UU RI No. 35 Tahun 2009,putusan_050.pdf,"3-5, 10",Nazwa,Rifqia,verified
+P050,pasalTerbukti,Pasal 111 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_050.pdf,14,Nazwa,Rifqia,verified
+P050,vonisBulan,54,putusan_050.pdf,14,Nazwa,Rifqia,verified

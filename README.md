@@ -1,3 +1,4 @@
+docs/12-readme-ai-usage
 # uts-struktur-data-narkotika-kelompok-24
 ## Identitas Kelompok
 - **Anggota A:** RIFQIA SALMA (202510370110270) — GitHub: `@rifqiaesa-hub`
@@ -16,3 +17,5 @@
 - **Menjalankan Unit Test (7 Skenario):**
   ```bash
   mvn clean test
+# uts-struktur-data-narkotika-kelompok-24
+main
